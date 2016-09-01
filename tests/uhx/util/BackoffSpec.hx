@@ -10,9 +10,9 @@ class BackoffSpec {
 	
 	public static function main() {
 		var runner = new Runner();
-    runner.addCase(new BackoffSpec());
-    Report.create(runner);
-    runner.run();
+		runner.addCase(new BackoffSpec());
+		Report.create(runner);
+		runner.run();
 	}
 	
 	public function new() {
