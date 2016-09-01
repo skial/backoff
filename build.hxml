@@ -1,0 +1,12 @@
+-lib utest
+-lib thx.unit
+
+-cp src
+-cp tests
+
+-dce full
+
+--each
+
+-main uhx.util.BackoffSpec
+-js bin/spec.js
