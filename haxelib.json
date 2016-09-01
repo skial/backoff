@@ -1,0 +1,14 @@
+{
+  "name": "backoff",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["uhu", "uhx", "backoff", "back", "off", "exponential"],
+  "description": "An Exponential backoff library for Haxe.",
+  "contributors": ["skial"],
+  "releasenote": "Initial Release",
+  "version": "0.0.1-alpha",
+  "url": "https://github.com/skial/backoff",
+  "dependencies": {
+		"utest": ""
+  }
+}

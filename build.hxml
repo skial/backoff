@@ -1,5 +1,4 @@
 -lib utest
--lib thx.unit
 
 -cp src
 -cp tests
