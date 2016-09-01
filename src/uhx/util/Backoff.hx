@@ -1,6 +1,6 @@
 package uhx.util;
 
-class Backoff<T> {
+class Backoff {
 	
 	public var timeout:Float = 0;
 	public var delay(default, null):Float;
